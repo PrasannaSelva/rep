@@ -10,7 +10,7 @@ var a=10;
 console.log(a);
 
 
-
+console.log('and');
 
 x= a+a;
 var x;
